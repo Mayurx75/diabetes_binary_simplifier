@@ -1,5 +1,5 @@
-### **📌 README.md for Diabetes Binary Classifier**
-``markdown
+
+
 # 🏥 Diabetes Binary Classifier
 
 A machine learning model that predicts whether a person has diabetes based on medical attributes. The model is trained using the **Pima Indians Diabetes Dataset** and supports multiple classifiers like Logistic Regression, Decision Tree, Random Forest, and SVM.
